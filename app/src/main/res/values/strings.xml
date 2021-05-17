@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pdfreader</string>
+    <string name="next_page">Next</string>
+    <string name="prev_page">Prev</string>
+    <string name="pdf_title">shannon1948.pdf</string>
+    <string name="page_count">Page 0 of 53</string>
+</resources>
